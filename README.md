@@ -1,2 +1,3 @@
-# rapid-fintech-app-w12x
+# Rapid Fintech App W12X
+
 A financial technology application for modern development workflows.
